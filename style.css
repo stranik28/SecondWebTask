@@ -105,6 +105,7 @@ nav li a {
 
 .even {
     background-color: #FF6633;
+    text-align: center;
 }
 
 .union{
@@ -114,5 +115,5 @@ p{
     max-width: 960px;
     padding: 0;
     margin: 0 auto 0 auto;
-    font-size: 80px;
+    font-size: 600%;
 }
