@@ -4,7 +4,7 @@ header {
     height: 120px;
     padding: 15px 15px 0px 15px;
     margin-left: -8px;
-    margin-top: -8px;
+    margin-top: 10px;
     margin-bottom: -16px;
     background-color: lawngreen;
     border-bottom: 1px solid #FF9900;
@@ -17,6 +17,7 @@ footer {
     margin-left: -10px;
     padding: 13px 18px 0px 18px;
     background-color: lawngreen;
+    margin-top: 10px;
 }
 
 main {
@@ -28,7 +29,7 @@ main {
 }
 
 body {
-    background-color: aqua;
+    background-image: url(https://steamcommunity.com/economy/profilebackground/items/469610/62d38130bb04b9c29da6e9c709d7d3bed45ac871.jpg);
     font-family: serif, "Times new Roman";
 }
 
@@ -86,6 +87,7 @@ nav {
     background-color: #FFCC00;
     margin: 0 auto;
     padding-left: 0;
+    margin-top: 30px !important;
 }
 
 nav li {
